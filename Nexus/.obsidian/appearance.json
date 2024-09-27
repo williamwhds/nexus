@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Minecraft"
+  ],
+  "accentColor": ""
+}
