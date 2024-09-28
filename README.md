@@ -5,6 +5,8 @@ O **Nexus** é um sistema de organização pessoal desenvolvido para o [Obsidian
 ## Como usar
 Baixe o repositório e utilize a pasta `Nexus` como cofre. Abra o arquivo `00 - Mapas/Utilização.md` para uma visão geral sobre o sistema, a estrutura de pastas e algumas dicas de uso.
 
+Você pode usar a fonte que quiser, mas recomendo que use a [Jetbrains Mono](https://www.jetbrains.com/lp/mono/).
+
 ## Contribuição
 
 Se você deseja melhorar este sistema ou tem sugestões para aprimorá-lo, fique à vontade para abrir issues ou enviar pull requests.
