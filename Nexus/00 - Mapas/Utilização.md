@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - image-borders
+---
 # Introdução
 
 Esse é o sistema Nexus, um sistema de organização feito com base no [Obsidian-Vault-Template](https://github.com/CyanVoxel/Obsidian-Vault-Template) de [CyanVoxel](https://www.youtube.com/@cyanvoxel). Este sistema de organização pessoal visa ajudá-lo a organizar e conectar suas ideias, projetos e informações de forma eficaz. Nenhuma das pastas, arquivos ou dicas é obrigatória; você pode adaptá-lo conforme suas necessidades e preferências. Lembre-se de que nada aqui deve ser encarado como uma verdade absoluta, então sinta-se livre para experimentar e modificar o sistema como achar melhor.
@@ -29,7 +33,7 @@ São áreas de interesse ou responsabilidade que estão em constante evolução 
 - Teoria Musical
 - Desenho e Ilustração
 
-Essas áreas contêm suas anotações de estudos, links importantes e também a lista de leitura, onde você pode registrar filmes, livros, jogos, ou séries que deseja consumir. Após consumir, você pode fazer uma análise crítica e adicionar suas conclusões a esta área.
+Essas áreas contêm suas anotações de estudos e links importantes.
 
 ## **03 - Permanente**
 Essa é a pasta onde suas ideias, pensamentos e conceitos são refinados e armazenados de forma organizada. Ao longo do tempo, você revisitará suas notas, conectará ideias e criará novas. Elas podem se originar de notas de outras pastas, especialmente de Áreas, Projetos, Recursos e Diário.
@@ -90,7 +94,7 @@ Agora, quando é algo como uma tarefa de um projeto, eu prefiro fazer o checklis
 
 ![](calendario-utilizacao.png)
 
-Todas as tarefas que você criar podem ser visualizadas em uma única [página](<01 - Tarefas>).
+Todas as tarefas que você criar podem ser visualizadas em uma única [página](Tarefas).
 
 ![](tarefas-utilizacao.png)
 
