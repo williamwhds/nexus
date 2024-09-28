@@ -5,7 +5,8 @@
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
-    "Minecraft"
+    "Minecraft",
+    "CyanVoxel's General Tweaks"
   ],
   "accentColor": ""
 }
